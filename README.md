@@ -1,11 +1,17 @@
 # Crime-Data-Analysis-of-Montgomery-County-Maryland
-[Image 1](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/Frequency%20of%20offence.png)
+¡[Image 1](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/Frequency%20of%20offence.png)
+
 ![Image 2](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/NIBRS%20codes%20base%20crimes.png)
+
 ![Image 3](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/correlation.png)
+
 ![Image 4](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/frequency%20of%20crimes.png)
-![Image 6](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/newplot.png)
-![Image 7](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/pi%20chart.png)
-![Image 8](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/police%20district%20based.png)
+
+![Image 5](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/newplot.png)
+
+![Image 6](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/pi%20chart.png)
+
+![Image 7](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/police%20district%20based.png)
 
 ## Abstract
 
