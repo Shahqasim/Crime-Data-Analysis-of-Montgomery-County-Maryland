@@ -1,5 +1,5 @@
 # Crime-Data-Analysis-of-Montgomery-County-Maryland
-¡[Image 1](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/Frequency%20of%20offence.png)
+![Image 1](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/Frequency%20of%20offence.png)
 
 ![Image 2](https://raw.githubusercontent.com/Shahqasim/Crime-Data-Analysis-of-Montgomery-County-Maryland/main/Visualisation/NIBRS%20codes%20base%20crimes.png)
 
